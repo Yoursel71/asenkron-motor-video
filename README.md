@@ -1,6 +1,6 @@
 # Asenkron Motorlar
 
-Animasyonlu anlatım videosu, 12 dk 19 sn, 1080p, Türkçe seslendirmeli.
+Animasyonlu anlatım videosu, 12 dk 28 sn, 1080p, Türkçe seslendirmeli.
 Kaynak: MEB **Atölye 10 (Endüstriyel Otomasyon Teknolojileri)**, 1. Öğrenme Birimi, **1.1 Asenkron Motorlar** (s. 16–26).
 
 Video dosyaları repoda değil, **Releases** bölümünde (GitHub tek dosya sınırı 100 MB):
@@ -33,7 +33,7 @@ Video dosyaları repoda değil, **Releases** bölümünde (GitHub tek dosya sın
 | 10:15 | Frenleme | 1.1.6 · Grafik 1.1 |
 | 10:53 | 1 fazlı 1 kondansatörlü motor | 1.1.7 |
 | 11:34 | Özet | 1.1 |
-| 12:07 | Bobin Kardeşler için (kapanış) | — |
+| 12:07 | Kapanış: yapımcı, logo ve bitiş ekranı alanları | — |
 
 ## Nasıl üretildi
 
