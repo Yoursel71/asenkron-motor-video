@@ -1,6 +1,6 @@
 # Asenkron Motorlar
 
-Animasyonlu anlatım videosu, 12 dk 7 sn, 1080p, Türkçe seslendirmeli.
+Animasyonlu anlatım videosu, 12 dk 19 sn, 1080p, Türkçe seslendirmeli.
 Kaynak: MEB **Atölye 10 (Endüstriyel Otomasyon Teknolojileri)**, 1. Öğrenme Birimi, **1.1 Asenkron Motorlar** (s. 16–26).
 
 Video dosyaları repoda değil, **Releases** bölümünde (GitHub tek dosya sınırı 100 MB):
@@ -31,13 +31,14 @@ Video dosyaları repoda değil, **Releases** bölümünde (GitHub tek dosya sın
 | 9:03 | Yıldız üçgen yol verme | 1.1.4 |
 | 9:47 | Devir yönü değiştirme | 1.1.5 · Tablo 1.2 |
 | 10:15 | Frenleme | 1.1.6 · Grafik 1.1 |
-| 10:53 | Bir fazlı asenkron motorlar | 1.1.7 |
+| 10:53 | 1 fazlı 1 kondansatörlü motor | 1.1.7 |
 | 11:34 | Özet | 1.1 |
+| 12:07 | Bobin Kardeşler için (kapanış) | — |
 
 ## Nasıl üretildi
 
 - **Senaryo:** kitabın 1.1 bölümünden; terimler ve sayısal örnekler kitaptakiyle aynı (ör. 1500 / 1450 → kayma %3,33; 7,5 kW 14,8 A → direkt 74 A, yıldızda 24,6 A).
 - **Seslendirme:** Microsoft Türkçe neural ses (tr-TR-AhmetNeural), her cümle ayrı; kelime zaman damgaları kaydedilir.
-- **Senkron:** animasyon olayları ve kurgu efektleri, ilgili kelimenin söylendiği ana bağlıdır; birleştirmede anlatım her sahnenin ilk karesine örnek düzeyinde hizalanır (ölçülen en büyük kayma 1,7 ms).
+- **Senkron:** animasyon olayları ve kurgu efektleri, ilgili kelimenin söylendiği ana bağlıdır; birleştirmede anlatım her sahnenin ilk karesine örnek düzeyinde hizalanır (ölçülen en büyük kayma 0,4 ms).
 - **2D animasyonlar:** Manim; **3D sahneler:** Blender 5.2.2 (EEVEE), seslendirmeye göre yeniden zamanlandı.
 - **Kurgu katmanı:** yakınlaştırma, spot (çevreyi bulanıklaştırma), ok, vurgu kutusu, parçayı takip eden etiketler.
