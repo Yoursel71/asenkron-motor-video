@@ -18,7 +18,7 @@ Video dosyaları repoda değil, **Releases** bölümünde (GitHub tek dosya sın
 | 1:30 | Döner manyetik alan | 1.1.1 |
 | 2:05 | Rotor neden döner? | 1.1.1 |
 | 2:37 | Doğru akım verilirse? | 1.1.1 |
-| 3:07 | Motor etiketi | 1.1.2 · Şekil 1.3 |
+| 3:08 | Motor etiketi | 1.1.2 · Şekil 1.3 |
 | 4:00 | Klemens kutusu | 1.1.2 |
 | 4:25 | Sargı kontrolü | 1.1.2 · Görsel 1.1 |
 | 5:01 | Senkron devir | 1.1.3 · Tablo 1.1 |
@@ -38,6 +38,6 @@ Video dosyaları repoda değil, **Releases** bölümünde (GitHub tek dosya sın
 
 - **Senaryo:** kitabın 1.1 bölümünden; terimler ve sayısal örnekler kitaptakiyle aynı (ör. 1500 / 1450 → kayma %3,33; 7,5 kW 14,8 A → direkt 74 A, yıldızda 24,6 A).
 - **Seslendirme:** Microsoft Türkçe neural ses (tr-TR-AhmetNeural), her cümle ayrı; kelime zaman damgaları kaydedilir.
-- **Senkron:** animasyon olayları ve kurgu efektleri, ilgili kelimenin söylendiği ana bağlıdır.
+- **Senkron:** animasyon olayları ve kurgu efektleri, ilgili kelimenin söylendiği ana bağlıdır; birleştirmede anlatım her sahnenin ilk karesine örnek düzeyinde hizalanır (ölçülen en büyük kayma 1,7 ms).
 - **2D animasyonlar:** Manim; **3D sahneler:** Blender 5.2.2 (EEVEE), seslendirmeye göre yeniden zamanlandı.
 - **Kurgu katmanı:** yakınlaştırma, spot (çevreyi bulanıklaştırma), ok, vurgu kutusu, parçayı takip eden etiketler.
